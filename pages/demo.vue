@@ -20,5 +20,6 @@ watch(
 <template>
   <div>
     <a href="javascript:void(0)" @click="onClick"> AAA </a>
+    <NuxtLink to="/"> ToIndex </NuxtLink>
   </div>
 </template>
